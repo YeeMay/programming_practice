@@ -1,0 +1,1 @@
+those integers like '1', '2', '3', '4', and etc. are to show better of how the code printing its pattern
